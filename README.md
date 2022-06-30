@@ -10,6 +10,8 @@ Test task react application.
 * redux, redux-toolkit
 * react-router
 * typescript
+* react-bootstrap
+* react-hook-form
 
 ## Run project
 
